@@ -1,4 +1,4 @@
-# Neumann_self_mutual_inductance
+# Neumann Self- and Mutual inductance of Wires
 
 Compute the inductance of a wire via Neumann integrals for self and mutual inductance [1].
 
