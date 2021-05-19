@@ -6,4 +6,6 @@ I also included an implemention to generate Bezier curve to describe any wire sh
 
 
 [1] C. Paul, Inductance: Loop and Partial, ser. Wiley - IEEE.Wiley, 2011.
+
+
 [2] Pomax, “A Primer on Bézier Curves”, https://pomax.github.io/bezierinfo/
